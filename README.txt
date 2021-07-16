@@ -1,4 +1,4 @@
-Most important topics on this project 
+Projeto trabalha com estilização dinâmica baseada em componentes css 
 
 #1 Dynamic Styling
 

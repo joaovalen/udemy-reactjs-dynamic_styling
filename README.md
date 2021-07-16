@@ -4,16 +4,13 @@ Most important topics on this project
 
 const [isValid, setIsValid] = useState(true);
 
-<!-- 
 <div className={`login-form ${!isValid ? 'invalid' : ''}`}> 
   <input type="text" onChange={goalInputChangeHandler} />
 </div> 
- -->
  
 // Caso o state isValid seja falso (!isValid) adicione a string 'invalid' a classe da div, caso não, adicione nada
 // Dessa forma a div vai ter ou só a classe login-form ou login-form invalid que deve estar programada no css
 
-<!-- 
 .form-control input {
   display: block;
   width: 100%;
@@ -28,4 +25,4 @@ const [isValid, setIsValid] = useState(true);
   background: #ffd7d7;
 }
 
- -->
+ 

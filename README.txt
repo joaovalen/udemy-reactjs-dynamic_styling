@@ -25,4 +25,17 @@ const [isValid, setIsValid] = useState(true);
   background: #ffd7d7;
 }
 
- 
+#2 CSS MODULES
+
+import styles from './Button.module.css'
+
+const Button = props => {
+  return (
+    <button type={props.type} className={styles.button} onClick={props.onClick}>
+      {props.children}
+    </button>
+  );
+};
+export default Button;
+
+E O ARQUIVO DE CSS TEM QUE TER O .module

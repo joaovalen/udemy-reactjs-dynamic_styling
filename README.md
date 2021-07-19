@@ -1,4 +1,5 @@
-Projeto trabalha com estilização dinâmica baseada em componentes css 
+Projeto trabalha com estilização dinâmica baseada em componentes css - EDITA O ARQUIVO PRA VER AS ANOTAÇÕES PQ EM .MD NÃO PEGA
+![image](https://user-images.githubusercontent.com/44881948/126157590-31c53293-1c71-47dd-b90f-907e3dc218a5.png)
 
 #1 Dynamic Styling
 
